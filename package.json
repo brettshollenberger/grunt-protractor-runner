@@ -1,7 +1,7 @@
 {
   "name": "grunt-pr",
   "description": "A Grunt plugin for running protractor runner.",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "homepage": "https://github.com/brettshollenberger/grunt-protractor-runner",
   "author": {
     "name": "Teerapap Changwichukarn",
@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/teerapap/grunt-protractor-runner.git"
+    "url": "https://github.com/brettshollenberger/grunt-protractor-runner"
   },
   "bugs": {
-    "url": "https://github.com/teerapap/grunt-protractor-runner/issues"
+    "url": "https://github.com/brettshollenberger/grunt-protractor-runner"
   },
   "licenses": [
     {
@@ -35,7 +35,7 @@
   },
   "peerDependencies": {
     "grunt": "~0.4.1",
-    "protractor": ">=0.10.0-0 <=0.12.0-0"
+    "protractor": ">=0.10.0-0 <0.13.0-0"
   },
   "keywords": [
     "gruntplugin",
