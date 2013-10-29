@@ -1,8 +1,8 @@
 {
   "name": "grunt-protractor-runner",
   "description": "A Grunt plugin for running protractor runner.",
-  "version": "0.1.5",
-  "homepage": "https://github.com/teerapap/grunt-protractor-runner",
+  "version": "0.1.6",
+  "homepage": "https://github.com/brettshollenberger/grunt-protractor-runner",
   "author": {
     "name": "Teerapap Changwichukarn",
     "email": "teerapap.c@gmail.com"
